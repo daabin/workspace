@@ -1,3 +1,3 @@
-# write
+# Write List
 
-(First)[./first.md]
+- [First](./first.md)
